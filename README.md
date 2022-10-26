@@ -5,8 +5,8 @@ https://alist-doc.nn.ci/docs/install/source-code
 
 个人版：
 
-<a href="https://repl.it/github/valetzx/alist-build-on-replit">
-  <img alt="Run on Repl.it" src="https://repl.it/badge/github/valetzx/alist-build-on-replit" style="height: 40px; width: 190px;" />
+<a href="https://repl.it/github/lqinyli/alist-replit">
+  <img alt="Run on Repl.it" src="https://repl.it/badge/github/lqinyli/alist-replit" style="height: 40px; width: 190px;" />
 </a>
 
 教育版：
