@@ -7,7 +7,8 @@ rm -rf alist-web
 #下载alist-web仓库
 git clone https://github.com/Xhofe/alist-web
 #下载alist仓库
-git clone https://github.com/Xhofe/alist
+#git clone https://github.com/Xhofe/alist
+git clone -b v2 https://github.com/alist-org/alist
 #如果要更改源码，请将以上内容全部注释#
 #实例 #rm -rf alist
 
